@@ -11,3 +11,5 @@ This is content from my CTBA courses
 
 Check out some cheat sheets I have found: 
 [Cheat Sheets](https://github.com/Hojnicki/cheatsheets)
+
+[![Sorting](https://img.youtube.com/vi/P94M4jlrytQ/0.jpg)](https://www.youtube.com/watch?v=P94M4jlrytQ)
