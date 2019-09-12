@@ -3,5 +3,5 @@ title: Time Series Decomposition
 description: Course Content
 ---
 
-Here is my basic graphing assignment I used in my CTBA course
+Here is the time series decompistion notebook I used in my CTBA course
 -
