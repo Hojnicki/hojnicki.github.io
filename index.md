@@ -1,6 +1,6 @@
 ---
-title: New Title
-description: Test
+title: Steve Hojnicki's Personal Github site
+description: Live from Williamsburg, it's Saturday night!
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
