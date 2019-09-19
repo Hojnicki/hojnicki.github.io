@@ -1,6 +1,7 @@
 ---
 title: Steve's Personal Github site
 description: Live from Williamsburg, it's Saturday night!
+![My Picture](/pics/family.jpg)
 ---
 
 ![My Picture](/pics/family.jpg)
