@@ -1,6 +1,6 @@
 ---
 title: Steve Hojnicki's Professional Portfolio
-description: Professional Portfolio
+description: My work in Python and R
 ---
 
 ![My Picture](/pics/family.jpg)
