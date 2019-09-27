@@ -7,7 +7,7 @@ description: My work in Python and R
 
 Basic Coding Work
 
-[Time Series Decomposition](/timeseries/index.md)
+-[Time Series Decomposition](/timeseries/index.md)
 
 
 [Reference Sheets](https://github.com/Hojnicki/cheatsheets)
