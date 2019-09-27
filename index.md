@@ -6,11 +6,12 @@ description: Professional Portfolio: Python and R
 ![My Picture](/pics/family.jpg)
 
 Basic Coding Work
+* Coming soon
+
+Class Material
 
 -[Time Series Decomposition](/timeseries/index.md)
-
-
-[Reference Sheets](https://github.com/Hojnicki/cheatsheets)
+-[Reference Sheets](https://github.com/Hojnicki/cheatsheets)
 
 
 Presentation work for MSBA program
