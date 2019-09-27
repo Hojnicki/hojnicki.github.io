@@ -16,4 +16,5 @@ description: Professional Portfolio: Python and R
 <b> Class Material </b>
 
 -[Time Series Decomposition](/timeseries/index.md)
+
 -[Reference Sheets](https://github.com/Hojnicki/cheatsheets)
