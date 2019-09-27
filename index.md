@@ -1,5 +1,5 @@
 ---
-title: Steve's Personal Github site
+title: Steve Hojnicki's Professional Portfolio
 description: Live from Williamsburg, it's Saturday night!
 ---
 
