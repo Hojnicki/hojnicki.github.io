@@ -6,6 +6,7 @@ description: My work in Python and R
 ![My Picture](/pics/family.jpg)
 
 Basic Coding Work
+
 [Time Series Decomposition](/timeseries/index.md)
 
 
