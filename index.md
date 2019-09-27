@@ -14,4 +14,4 @@ Basic Coding Work
 
 
 Presentation work for MSBA program
-[![Sorting](https://youtu.be/apOBmeJkpdI)
+[![Sorting](https://img.youtube.com/vi/apOBmeJkpdI/0.jpg)](https://www.youtube.com/watch?v=apOBmeJkpdI)
