@@ -6,7 +6,10 @@ description: Professional Portfolio: Python and R
 ![My Picture](/pics/family.jpg)
 
 <b> Basic Coding Work </b>
-* Coming soon
+- Coming soon
+
+<b> More Advanced Project Work </b>
+- Coming soon
 
 <b> Presentation work for MSBA program </b>
 
@@ -15,6 +18,6 @@ description: Professional Portfolio: Python and R
 
 <b> Class Material </b>
 
--[Time Series Decomposition](/timeseries/index.md)
+- [Time Series Decomposition](/timeseries/index.md)
 
--[Reference Sheets](https://github.com/Hojnicki/cheatsheets)
+- [Reference Sheets](https://github.com/Hojnicki/cheatsheets)
