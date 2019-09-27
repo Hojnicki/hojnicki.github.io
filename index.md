@@ -1,6 +1,6 @@
 ---
 title: Steve Hojnicki's Professional Portfolio
-description: Live from Williamsburg, it's Saturday night!
+description: Professional Portfolio
 ---
 
 ![My Picture](/pics/family.jpg)
