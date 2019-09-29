@@ -3,7 +3,7 @@ title: Steve Hojnicki
 description: Professional Portfolio: Python and R
 ---
 
-![My Picture](/pics/family.jpg)
+![My Picture](/pics/Professional Headshot.png)
 
 <b> Basic Coding Work </b>
 - Coming soon
