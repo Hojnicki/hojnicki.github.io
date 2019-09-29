@@ -21,7 +21,7 @@ description: Professional Portfolio: Python and R
 
 <b> Presentation work for MSBA program </b>
 
-- [CTBA Analytics Presentation](/CTBAAnalyticsPresentation/index.md)
+- [Competitng Through Business Analytics First Analytics Presentation](/CTBAAnalyticsPresentation/index.md)
 
 <b> Class Material </b>
 
