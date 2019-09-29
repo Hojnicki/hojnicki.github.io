@@ -15,7 +15,7 @@ description: Professional Portfolio: Python and R
 
 <b> Presentation work for MSBA program </b>
 
-- [CTBA Analytics Presentation](https://github.com/Hojnicki/hojnicki.github.io/tree/master/CTBAAnalyticsPresentation)
+- [CTBA Analytics Presentation](https://github.com/Hojnicki/hojnicki.github.io/blob/master/CTBAAnalyticsPresentation/index.md)
 
 [![Sorting](https://img.youtube.com/vi/apOBmeJkpdI/0.jpg)](https://www.youtube.com/watch?v=apOBmeJkpdI)
 
