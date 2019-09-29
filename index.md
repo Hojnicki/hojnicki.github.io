@@ -17,8 +17,6 @@ description: Professional Portfolio: Python and R
 
 - [CTBA Analytics Presentation](/CTBAAnalyticsPresentation/index.md)
 
-[![Sorting](https://img.youtube.com/vi/apOBmeJkpdI/0.jpg)](https://www.youtube.com/watch?v=apOBmeJkpdI)
-
 
 <b> Class Material </b>
 
