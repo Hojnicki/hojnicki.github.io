@@ -11,7 +11,7 @@ description: Professional Portfolio: Python and R
 - [JSON Web Scraping](https://github.com/Hojnicki/basiccoding/blob/master/json_scrape.py)
 
 <b> Basic Coding Work in R </b>
-- [Kapsack Packing Heuristic Algorithm](https://github.com/Hojnicki/basiccoding/blob/master/knapsack.py)
+- [Kapsack Packing Heuristic Algorithm](https://github.com/Hojnicki/basiccoding/blob/master/knapsack.py) : Simple algorithm that iterates through items and packs a capacity constrained bag based on volume & value of items without total enumeration. 
 
 <b> More Advanced Project Work in Python </b>
 - Coming soon
@@ -22,6 +22,8 @@ description: Professional Portfolio: Python and R
 <b> Presentation work for MSBA program </b>
 
 - [Competitng Through Business Analytics First Analytics Presentation](/CTBAAnalyticsPresentation/index.md)
+
+<b> For Military application examples e-mail: <a href="mailto:steven.c.hojnicki.mil@mail.mil">steven.c.hojnicki.mil@mail.mil</a></b>
 
 <b> Class Material </b>
 
