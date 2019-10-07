@@ -23,7 +23,7 @@ description: Professional Portfolio: Python and R
 
 - [Competitng Through Business Analytics First Analytics Presentation](/CTBAAnalyticsPresentation/index.md)
 
-<b> For Military application examples e-mail: <a href="mailto:steven.c.hojnicki.mil@mail.mil">steven.c.hojnicki.mil@mail.mil</a></b>
+<b> For military application examples of work e-mail: <a href="mailto:steven.c.hojnicki.mil@mail.mil">steven.c.hojnicki.mil@mail.mil</a></b>
 
 <b> Class Material </b>
 
