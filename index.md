@@ -9,9 +9,10 @@ description: Professional Portfolio: Python and R
 - [XML Web Scraping](https://github.com/Hojnicki/basiccoding/blob/master/xml_scrape.py)
 - [HTML Web Scraping](https://github.com/Hojnicki/basiccoding/blob/master/html_scrape.py)
 - [JSON Web Scraping](https://github.com/Hojnicki/basiccoding/blob/master/json_scrape.py)
+- [Kapsack Packing Heuristic Algorithm](https://github.com/Hojnicki/basiccoding/blob/master/knapsack.py) : Simple algorithm that iterates through items and packs a capacity constrained bag based on volume & value of items without total enumeration. 
 
 <b> Basic Coding Work in R </b>
-- [Kapsack Packing Heuristic Algorithm](https://github.com/Hojnicki/basiccoding/blob/master/knapsack.py) : Simple algorithm that iterates through items and packs a capacity constrained bag based on volume & value of items without total enumeration. 
+- Coming soon
 
 <b> More Advanced Project Work in Python </b>
 - Coming soon
