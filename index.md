@@ -23,10 +23,11 @@ description: Professional Portfolio: Python and R
 
 - [Competitng Through Business Analytics First Analytics Presentation](/CTBAAnalyticsPresentation/index.md)
 
-<b> For military application examples of work e-mail: <a href="mailto:steven.c.hojnicki.mil@mail.mil">steven.c.hojnicki.mil@mail.mil</a></b>
-
 <b> Class Material </b>
 
 - [Time Series Decomposition](/timeseries/index.md)
 
 - [Reference Sheets](https://github.com/Hojnicki/cheatsheets)
+
+
+<b> For military application examples of work e-mail: <a href="mailto:steven.c.hojnicki.mil@mail.mil">steven.c.hojnicki.mil@mail.mil</a></b>
