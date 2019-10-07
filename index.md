@@ -11,7 +11,7 @@ description: Professional Portfolio: Python and R
 - [JSON Web Scraping](https://github.com/Hojnicki/basiccoding/blob/master/json_scrape.py)
 
 <b> Basic Coding Work in R </b>
-- Coming soon
+- [Kapsack Packing Heuristic Algorithm](https://github.com/Hojnicki/basiccoding/blob/master/knapsack.py)
 
 <b> More Advanced Project Work in Python </b>
 - Coming soon
