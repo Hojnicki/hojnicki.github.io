@@ -36,5 +36,3 @@ description: Professional Portfolio: Python and R
 <b> <u>Contact information</u> </b>
 
 For military application examples of work e-mail: <a href="mailto:steven.c.hojnicki.mil@mail.mil">steven.c.hojnicki.mil@mail.mil</a>
-
-<a href="www.linkedin.com/in/stevenhojnicki">Connect with me on LinkedIn </a>
