@@ -31,4 +31,6 @@ description: Professional Portfolio: Python and R
 - [Reference Sheets](https://github.com/Hojnicki/cheatsheets)
 
 
+<b> [Contact me on LinkedIn](www.linkedin.com/in/stevenhojnicki)</b>
+
 <b> For military application examples of work e-mail: <a href="mailto:steven.c.hojnicki.mil@mail.mil">steven.c.hojnicki.mil@mail.mil</a></b>
