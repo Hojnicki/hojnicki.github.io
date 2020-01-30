@@ -12,7 +12,8 @@ description: Professional Portfolio: Python and R
 - [Kapsack Packing Heuristic Algorithm](https://github.com/Hojnicki/basiccoding/blob/master/knapsack.py) : Simple algorithm that iterates through items and packs a capacity constrained bag based on volume & value of items without total enumeration. 
 
 <b> Basic Coding Work in R </b>
-- Coming soon
+- [Linear Optimization](https://github.com/Hojnicki/basiccoding/blob/master/BasicLinearOptimization.R)
+- [Transportation Network Model] (https://github.com/Hojnicki/basiccoding/blob/master/BasicTransportationModel.R)
 
 <b> More Advanced Project Work in Python </b>
 - Coming soon
