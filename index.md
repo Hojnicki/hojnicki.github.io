@@ -13,7 +13,7 @@ description: Professional Portfolio: Python and R
 
 <b> Basic Coding Work in R </b>
 - [Linear Optimization](https://github.com/Hojnicki/basiccoding/blob/master/BasicLinearOptimization.R)
-- [Transportation Network Model] (https://github.com/Hojnicki/basiccoding/blob/master/BasicTransportationModel.R)
+- [Transportation Network Model](https://github.com/Hojnicki/basiccoding/blob/master/BasicTransportationModel.R)
 
 <b> More Advanced Project Work in Python </b>
 - Coming soon
