@@ -14,6 +14,8 @@ description: Professional Portfolio: Python and R
 <b> Basic Coding Work in R </b>
 - [Linear Optimization](https://github.com/Hojnicki/basiccoding/blob/master/BasicLinearOptimization.R) : Code to solve basic optimization problems much like solver in excel would. 
 - [Transportation Network Model](https://github.com/Hojnicki/basiccoding/blob/master/BasicTransportationModel.R) : Simple transportation network model. 
+- [One way ANOVA testing](https://github.com/Hojnicki/basiccoding/blob/master/ANOVAoneway.R) : Code to conduct one way ANOVA tests. 
+- [Two way ANOVA testing](https://github.com/Hojnicki/basiccoding/blob/master/ANOVAtwoway.R) : Code to conduct two way ANOVA tests.
 
 <b> More Advanced Project Work in Python </b>
 - Coming soon
