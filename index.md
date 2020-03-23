@@ -21,7 +21,7 @@ description: Professional Portfolio: Python and R
 - Coming soon
 
 <b> More Advanced Project Work in R </b>
-- Coming soon
+- [Network optimization model](https://github.com/Hojnicki/advancedcoding/blob/master/Network_Graph.Rmd) : Slightly more complicated network optimization model. Model accounts for shrink/loss after the first ring of nodes. 
 
 <b> Presentation work for MSBA program </b>
 
