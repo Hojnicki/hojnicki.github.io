@@ -21,6 +21,8 @@ description: Professional Portfolio: Python and R
 - Coming soon
 
 <b> More Advanced Project Work in R </b>
+- [R Shiny work for W&M's Center for Online Learning] (https://hojnicki.shinyapps.io/WM_COL_Dashboard/) : A demo dashboard to show how shiny could help William & Mary's Center for Online Learning see their admission data in a more dynamic way.
+
 - [Network optimization model](https://github.com/Hojnicki/advancedcoding/blob/master/Network_Graph.Rmd) : Slightly more complicated network optimization model. Model accounts for shrink/loss after the first ring of nodes. 
 
 <b> Presentation work for MSBA program </b>
